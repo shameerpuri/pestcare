@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "pestcare.spss.com",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/pestcare",
+    "feed_url": "https://shameerpuri.github.io/pestcare/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "shameer"
+    },
+    "items": [
+    ]
+}
